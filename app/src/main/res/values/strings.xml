@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="options">Options</string>
+    <string name="popularity">Movie Most Popularity</string>
+    <string name="rating">Movie Top Rated</string>
+    <string name="rate">Rating</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release date</string>
+    <string name="vote_average">Vote average</string>
+    <string name="plot_synopsis">Plot synopsis</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="sync_account_name">SyncMovies</string>
+    <string name="content_authority">id.alikhsan778_udacity.popularmovie.AUTHORITY</string>
+    <string name="sync_account_type">id.alikhsan778_udacity.popularmovie</string>
+    <string name="share">Share</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="released">Released</string>
+    <string name="fav">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="upcoming">Movie Coming Soon</string>
+    <string name="nowplaying">Movie Now Playing</string>
+    <string name="favorite">My Favorite</string>
+
+</resources>
